@@ -36,7 +36,7 @@ int main()
     cout << "Welcome to the Betting Grounds!!" << endl;
     cout << "Let's play the number guessing game!!\n" << endl;
     cout << "Rules: First you need to set a betting amount\nThen, you will get a chance to guess the number and "
-    << "put some money on it.\n\nIf your guessed"
+    << "put some money on it.\nIf your guessed"
     << " number matches with the drawn number, you'll win and receive the double amount\n\n";
     cout << "If the number does not match, you lose and the money you put will be lost. " << endl;
     cout << "\nYou can play as many rounds you can or untill you lose all your money!!\n" << endl;
